@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Eden israeli מתמחה בתכנון אדריכלי ועיצוב פנים למשפחות צעירות וקונים ראשונים. נהפוך את הדירה החדשה שלכם למרחב מושלם שמשקף את הסטייל והצרכים שלכם.
+
+### שירותים
+https://example.com/services
+פתרונות תכנון מקיפים לדירה החדשה שלכם: ייעוץ אדריכלי, עיצוב פנים, ליווי ביצוע ותכנון מותאם אישית למשפחות צעירות וקונים ראשונים. בואו לגלות את מגוון השירותים.
+
+### תיק עבודות
+https://example.com/portfolio
+צפו בפרויקטי האדריכלות והעיצוב שלנו: דירות שתוכננו במיוחד למשפחות צעירות, עיצובים ייחודיים ופתרונות יצירתיים. קבלו השראה לבית הבא שלכם מתיק העבודות המלא.
+
+### צור קשר
+https://example.com/contact
+מוכנים להתחיל את המסע לבית המושלם? צרו קשר עם Eden israeli לייעוץ ראשוני ללא התחייבות. נשמח לשמוע על הפרויקט שלכם ולהפוך את החזון שלכם למציאות מעוצבת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
